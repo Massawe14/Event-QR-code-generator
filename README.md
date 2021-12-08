@@ -1,2 +1,2 @@
-# QR-Scanner-Generator
+# QR-Code-Scanner-Generator
 Complete QR Scanner Generator In PHP &amp; MYSQL .. NO Need To Login....
